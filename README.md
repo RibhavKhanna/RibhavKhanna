@@ -13,7 +13,7 @@
   - 🌱 I’m currently **learning Machine Learning**. 
   - 📫 How to reach me:
   <a href="mailto:ribhavkhanna22@gmail.com"> ribhavkhanna22@gmail,com </a>
-  - ⚡ Fun fact: I love to do **video editing** and **playing PC games**.
+  - ⚡ Fun fact: I love to do **photo editing** and **playing PC games**.
 
 
 
@@ -41,15 +41,6 @@
 </p>
   
 <br><br>
-### **GitHub Stats**
-<p>
-
-</p>
-<p>
-
-</p>
-        
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 
 
