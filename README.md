@@ -1,7 +1,7 @@
 
 
 
-  I am a second-year B.Tech Computer Science student at the Indian Institute of
+  I am a third-year B.Tech Computer Science student at the Indian Institute of
   Information Technology in Lucknow. I have great enthusiasm to learn new
   things. I am currently interested in App Development and Machine learning/ Deep learning.
   I am just a beginner for now, but I plan to learn a lot more from the community.
